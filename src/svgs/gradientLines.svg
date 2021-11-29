@@ -1,0 +1,35 @@
+<svg width="515" height="105" viewBox="0 0 515 105" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="8.28908" y1="99.2967" x2="100.289" y2="6.29672" stroke="#FF7801" stroke-width="2"/>
+<line x1="27.2891" y1="99.2967" x2="119.289" y2="6.29672" stroke="#FF7801" stroke-width="2"/>
+<line x1="157.289" y1="99.2967" x2="249.289" y2="6.29672" stroke="#FF7801" stroke-width="2"/>
+<line x1="176.289" y1="99.2967" x2="268.289" y2="6.29672" stroke="#FF7801" stroke-width="2"/>
+<line x1="305.289" y1="99.2967" x2="397.289" y2="6.29672" stroke="#FF7801" stroke-width="2"/>
+<line x1="325.289" y1="99.2967" x2="417.289" y2="6.29672" stroke="#FF7801" stroke-width="2"/>
+<line x1="379.289" y1="100.297" x2="470.289" y2="8.29677" stroke="#FF7801" stroke-width="2"/>
+<line x1="398.288" y1="100.298" x2="471.288" y2="26.2977" stroke="#FF7801" stroke-width="2"/>
+<line x1="416.293" y1="100.293" x2="472.293" y2="44.2929" stroke="#FF7801" stroke-width="2"/>
+<line x1="433.293" y1="100.306" x2="471.306" y2="62.2929" stroke="#FF7801" stroke-width="2"/>
+<line x1="451.293" y1="99.799" x2="471.799" y2="79.2929" stroke="#FF7801" stroke-width="2"/>
+<line x1="360.289" y1="100.297" x2="452.289" y2="7.29672" stroke="#FF7801" stroke-width="2"/>
+<line x1="343.289" y1="99.2967" x2="435.289" y2="6.29672" stroke="#FF7801" stroke-width="2"/>
+<line x1="286.289" y1="99.2967" x2="378.289" y2="6.29672" stroke="#FF7801" stroke-width="2"/>
+<line x1="268.289" y1="99.2967" x2="360.289" y2="6.29672" stroke="#FF7801" stroke-width="2"/>
+<line x1="249.289" y1="99.2967" x2="341.289" y2="6.29672" stroke="#FF7801" stroke-width="2"/>
+<line x1="230.289" y1="99.2967" x2="322.289" y2="6.29672" stroke="#FF7801" stroke-width="2"/>
+<line x1="211.289" y1="100.297" x2="303.289" y2="7.29672" stroke="#FF7801" stroke-width="2"/>
+<line x1="194.289" y1="100.297" x2="286.289" y2="7.29672" stroke="#FF7801" stroke-width="2"/>
+<line x1="138.289" y1="100.297" x2="230.289" y2="7.29672" stroke="#FF7801" stroke-width="2"/>
+<line x1="119.289" y1="99.2967" x2="211.289" y2="6.29672" stroke="#FF7801" stroke-width="2"/>
+<line x1="100.289" y1="100.297" x2="192.289" y2="7.29672" stroke="#FF7801" stroke-width="2"/>
+<line x1="82.2891" y1="100.297" x2="174.289" y2="7.29672" stroke="#FF7801" stroke-width="2"/>
+<line x1="63.2891" y1="100.297" x2="155.289" y2="7.29672" stroke="#FF7801" stroke-width="2"/>
+<line x1="46.2891" y1="99.2967" x2="138.289" y2="6.29672" stroke="#FF7801" stroke-width="2"/>
+<rect width="515" height="105" transform="matrix(-1 0 0 1 515 0)" fill="url(#paint0_linear_30_45)"/>
+<defs>
+<linearGradient id="paint0_linear_30_45" x1="46" y1="50" x2="515" y2="53" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F4F4F4"/>
+<stop offset="0.620505" stop-color="#F4F4F4" stop-opacity="0.5"/>
+<stop offset="1" stop-color="#F4F4F4" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
